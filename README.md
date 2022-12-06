@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ir-aimable
+- 👀 I’m interested in Digital Innovations
+- 🌱 I’m currently learning Software Engineering
+- 💞️ I’m looking to collaborate on Software development
+- 📫 aimableelleven@gmail.com
